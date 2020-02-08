@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: \ 启程迈向新纪元 \
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+ 我们有别于一般的服务端设计工作室，我们具备超中型专案的设计与执行能力。二余年来，我们在大型商业服务器、集合服务器、公益服务器、私人朋友服等累积了丰富的实战经验。从空间设计、成本规划、执行监造到维修漏洞，我们持续以「减少成本，品质严密」为主要考量，坚持效益、安全、安心、服务等细节，兼顾设计美学与效益，并用最严格的安卫政策，打造适合每类玩家想要的服务器，提供客户最佳品质与效益。 
