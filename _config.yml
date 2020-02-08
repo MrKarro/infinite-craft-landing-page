@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://infinite-craft.top
+url: https://infinite-craft.top
 title: Infinite Craft 工作室
 email: infinite-craft@outlook.com
 author: 卡洛Karro
@@ -10,8 +10,8 @@ description: > # "Write an awesome description for your new site here.
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description.
-copyright: 'Copyright &copy; 2018-2020 . All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+copyright: 'Copyright &copy; Infinite Craft Studio 2018-2020 . <br>All Rights Reserved.'
+credits: '鸣谢：登陆页面是由 <a href="http://startbootstrap.com/">创建的开源Bootstrap主题。</a>.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
