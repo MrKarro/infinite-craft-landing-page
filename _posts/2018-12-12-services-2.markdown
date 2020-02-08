@@ -2,9 +2,7 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: \ 建立国内首选服务端工程团队 \
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  以我们雄厚稳健的实力为后盾，集结最优秀的设计、规划、代入与自动管理人才，拥有一家服务器公司和一些业内人士的投资。我们有插件改写员、专业的服务器运营规划师和两套完整的自动化管理方案，是中国少见能将营建工程所有环节完整结合的专业团队。在制作品质上，发挥绝佳的垂直分工与水平整合效益，真正做到品质严密、成本经济与客户满意的多赢目标。 
