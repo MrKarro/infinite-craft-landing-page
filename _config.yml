@@ -11,7 +11,7 @@ description: > # "Write an awesome description for your new site here.
   head meta (for Google search results) and in your feed.xml site 
   description.
 copyright: 'Copyright &copy; Infinite Craft Studio 2018-2020 . <br>All Rights Reserved.'
-credits: '鸣谢：登陆页面是由 <a href="http://startbootstrap.com/">创建的开源Bootstrap主题。</a>.'
+credits: '鸣谢：本页面是 <a href="http://startbootstrap.com/">StartBootstrap</a> 的开源Bootstrap主题，由 <a href="https://github.com/">Github</a> 强力驱动。'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
